@@ -5,7 +5,8 @@
 3. You first get dealt 3 cards from the dealer. Each round, you get to Hit, Stand, or Quit. If you Hit, you get dealt another card. If you stand, you keep the cards you have. If you quit, the game ends. You can keep hitting until you bust.
 4. Dealer shows 2 out of 3 cards at the start. Dealer does not reveal following cards. Dealer gets their card(s) after you have made all your moves.
 
-**EXAMPLE OF A GAME** \n
+**EXAMPLE OF A GAME**
+
 WELCOME TO PRIME HIT!
 
 You have $100
