@@ -10,20 +10,35 @@
 WELCOME TO PRIME HIT!
 
 You have $100
+
 How much do you want to bet? $10
+
 The dealer is showing a 2 and Q
+
 You have a [6, 5, 'K'] for a total of 21
+
 Do you want to [H]it, [S]tand, or [Q]uit: H
 
+
 The dealer is showing a 2 and Q
+
 You have a [6, 5, 'K', 'J'] for a total of 31
+
 Do you want to [H]it, [S]tand, or [Q]uit: S
 
+
 The dealer has a [2, 'Q', 7, 'K', 6] for a total of 35
+
 You have a [6, 5, 'K', 'J'] for a total of 31
+
 Sorry. Your score isn't higher than the dealer. You lose.
+
 You have lost $10
+
 You now have $90
+
 Do you want to play again? (Y/N) : N
 
+
 Bye!
+
